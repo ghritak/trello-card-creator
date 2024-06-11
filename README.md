@@ -1,4 +1,4 @@
-# Shopify Pipedrive Integration
+# Trello Card Creator
 
 ## Getting Started
 
